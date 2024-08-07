@@ -4,7 +4,7 @@
 LiBoard is a custom layout for playing on lichess using the keyboard input. The idea is to minimize hand movement for an ergonomic online chess experience.
 
 ## How to use
-This is a chorded layout, meaning you press multiple keys at the same time to output one move. 
+This is a chorded layout, meaning you press multiple keys at the same time to output one move. Note that your keyboard will need to support at least 6key rollover. You can test your keyboard using [this site](https://www.mechanical-keyboard.org/key-rollover-test/). Press various keys at once and verify that each of them light up.
 
 ### Regular moves
 The indexes are responsible for the pieces. For the queen, use rook + knight. For pawns, you press nothing.
