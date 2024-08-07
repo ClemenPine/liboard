@@ -179,6 +179,33 @@
     (3 r n) (macro r n @n3)
     (2 r n) (macro r n @n2)
     (1 r n) (macro r n @n1)
+
+    ;; single key files
+    (h) h
+    (g) g
+    (f) f
+    (e) e
+    (x e) d
+    (x f) c
+    (x g) b
+    (x h) a
+
+    ;; single key ranks
+    (1) 1
+    (2) 2
+    (3) 3
+    (4) 4
+    (x 4) 5
+    (x 3) 6
+    (x 2) 7
+    (x 1) 8
+
+    ;; single key pieces
+    (b) b
+    (n) n
+    (r) r
+    (k) k
+    (r n) q
     
     ;; regular piece moves
     (x h b 1) (macro b a @n1)
