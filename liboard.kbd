@@ -44,6 +44,9 @@
 )
 
 (defchords liboard $timeout-chord
+    ;; misc
+    (f e 4 3) bspc
+
     ;; castling
     (r k) (macro o - o)
     (x r k) (macro o - o - o)
