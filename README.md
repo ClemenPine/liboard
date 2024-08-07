@@ -13,6 +13,8 @@ The rest of the left hand is responsible for the file. Pressing the left pinky k
 
 The rest of the right hand is responsible for the rank. It works much the same as the files. You can think of the right pinky key as meaning black, and not pressing it gives you the white ranks. 
 
+If at any point you make a mistake, backspace is mapped to fe43
+
 ### Castling
 Kingside castling is done by pressing king + rook. Queenside castling is done by pressing king + rook + left pinky (the queenside key)
 
@@ -21,9 +23,6 @@ If you want to underpromote a pawn, you need to press the file that the pawn is 
 
 ### Same square
 Sometimes two of the same piece will be controlling one square. In these cases you'll need to type two chords. First press the piece + either the rank or file, then for your second chord press the location of the controlled square. 
-
-### Undo
-If you make a mistake, backspace is mapped to fe43
 
 ## Installation
 You'll need to install [kanata](https://github.com/jtroo/kanata), then download the [liboard.kbd](liboard.kbd) file from this repo. Put both kanata and liboard into the same folder, cd into that folder, and run the following command:
