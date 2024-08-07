@@ -22,6 +22,9 @@ If you want to underpromote a pawn, you need to press the file that the pawn is 
 ### Same square
 Sometimes two of the same piece will be controlling one square. In these cases you'll need to type two chords. First press the piece + either the rank or file, then for your second chord press the location of the controlled square. 
 
+### Undo
+If you make a mistake, backspace is mapped to fe43
+
 ## Installation
 You'll need to install [kanata](https://github.com/jtroo/kanata), then download the [liboard.kbd](liboard.kbd) file from this repo. Put both kanata and liboard into the same folder, cd into that folder, and run the following command:
 
